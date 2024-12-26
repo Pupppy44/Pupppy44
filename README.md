@@ -22,12 +22,12 @@
 </p>
 <h2 align="center">⭐ Spotlight</h2>
 <div align="center">
-<a href="https://github.com/pupppy44/pascal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pupppy44&repo=pascal&theme=chartreuse-dark"></a>
+<a href="https://github.com/pupppy44/geo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pupppy44&repo=geo&theme=chartreuse-dark"></a>
  
 <a href="https://github.com/pupppy44/bob"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pupppy44&repo=bob&theme=chartreuse-dark"></a>
-<a href="https://github.com/pupppy44/rover"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pupppy44&repo=rover&theme=chartreuse-dark"></a>
+<a href="https://github.com/pupppy44/pascal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pupppy44&repo=pascal&theme=chartreuse-dark"></a>
    
-<a href="https://github.com/pupppy44/tween"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pupppy44&repo=tween&theme=chartreuse-dark"></a>
+<a href="https://github.com/pupppy44/rover"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pupppy44&repo=rover&theme=chartreuse-dark"></a>
 </div>
 <h2 align="center">📱 Contact</h2>
 <p align="center">
